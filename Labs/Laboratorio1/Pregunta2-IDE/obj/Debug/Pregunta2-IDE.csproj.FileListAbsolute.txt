@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\obj\Debug\Pregunta2-IDE.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\obj\Debug\Pregunta2-IDE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\bin\Debug\Pregunta2-IDE.exe.config
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\bin\Debug\Pregunta2-IDE.exe
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\bin\Debug\Pregunta2-IDE.pdb
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\obj\Debug\Pregunta2-IDE.exe
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\obj\Debug\Pregunta2-IDE.pdb
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Laboratorio1\Pregunta2-IDE\obj\Debug\Pregunta2-IDE.exe.config
