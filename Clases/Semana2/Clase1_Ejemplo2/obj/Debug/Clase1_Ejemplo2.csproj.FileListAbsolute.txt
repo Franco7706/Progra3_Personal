@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\bin\Debug\Clase1_Ejemplo2.exe.config
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\bin\Debug\Clase1_Ejemplo2.exe
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\bin\Debug\Clase1_Ejemplo2.pdb
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\obj\Debug\Clase1_Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\obj\Debug\Clase1_Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\obj\Debug\Clase1_Ejemplo2.exe
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\obj\Debug\Clase1_Ejemplo2.pdb
+C:\Users\Usuario\Documents\2025-2\Programación 3\Clases\Semana2\Clase1_Ejemplo2\obj\Debug\Clase1_Ejemplo2.exe.config
