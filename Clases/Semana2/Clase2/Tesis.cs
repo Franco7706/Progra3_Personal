@@ -27,5 +27,10 @@ namespace Clase1_Ejemplo2
         public string Institucion { get => institucion; set => institucion = value; }
         public string Ciudad { get => ciudad; set => ciudad = value; }
         public string Estado { get => estado; set => estado = value; }
+
+        public override string MetodoAbstracto()
+        {
+            return "Soy una tesis";
+        }
     }
 }

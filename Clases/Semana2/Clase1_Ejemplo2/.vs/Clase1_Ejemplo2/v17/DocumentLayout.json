@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|c:\\users\\usuario\\documents\\2025-2\\programaci\u00F3n 3\\clases\\semana2\\clase1_ejemplo2\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|c:\\users\\usuario\\documents\\2025-2\\programaci\u00F3n 3\\clases\\semana2\\clase1_ejemplo2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|c:\\users\\usuario\\documents\\2025-2\\programaci\u00F3n 3\\clases\\semana2\\clase1_ejemplo2\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|c:\\users\\usuario\\documents\\2025-2\\programaci\u00F3n 3\\clases\\semana2\\clase1_ejemplo2\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|c:\\users\\usuario\\documents\\2025-2\\programaci\u00F3n 3\\clases\\semana2\\clase1_ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3748044-10BB-46B8-9504-7ECC5F0CACA5}|Clase1_Ejemplo2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Tesis.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Tesis.cs",
               "RelativeDocumentMoniker": "Tesis.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Tesis.cs",
               "RelativeToolTip": "Tesis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T13:51:43.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Libro.cs",
               "RelativeDocumentMoniker": "Libro.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Libro.cs",
               "RelativeToolTip": "Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T13:51:32.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Articulo.cs",
               "RelativeDocumentMoniker": "Articulo.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Articulo.cs",
               "RelativeToolTip": "Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T13:51:02.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Publicacion.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Publicacion.cs",
               "RelativeDocumentMoniker": "Publicacion.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Publicacion.cs",
               "RelativeToolTip": "Publicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T13:46:50.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\Programaci\u00F3n 3\\Clases\\Semana2\\Clase1_Ejemplo2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T13:46:04.483Z",
               "EditorCaption": ""

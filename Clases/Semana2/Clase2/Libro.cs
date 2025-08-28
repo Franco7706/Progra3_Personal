@@ -26,5 +26,9 @@ namespace Clase1_Ejemplo2
         public string Edicion { get => edicion; set => edicion = value; }
         public string Lugar { get => lugar; set => lugar = value; }
         public string Editorial { get => editorial; set => editorial = value; }
+        public override string MetodoAbstracto()
+        {
+            return "soy un libro";
+        }
     }
 }

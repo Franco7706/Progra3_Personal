@@ -25,5 +25,10 @@ namespace Clase1_Ejemplo2
         public int Volumen { get => volumen; set => volumen = value; }
         public int Numero { get => numero; set => numero = value; }
         public string Mes { get => mes; set => mes = value; }
+
+        public override string MetodoAbstracto()
+        {
+            return "Soy un articulo";
+        }
     }
 }
